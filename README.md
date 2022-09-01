@@ -1,2 +1,2 @@
 # tp3
-DTC 477 Tiny Project 3
+This is the read me file for my tiny project 3 that I'm starting.
