@@ -1,9 +1,10 @@
 h1 {
-  font-family: Arial;
+  font-family: "Oswald", sans-serif;
 }
 
 h4 {
   margin-bottom: 0;
+  color: blue;
 }
 
 ul, ol {
@@ -13,5 +14,9 @@ ul, ol {
 .copyright {
   font-family: Arial;
   font-size: 9px;
+  font-style: italic;
+}
+
+#equipment ul {
   font-style: italic;
 }
